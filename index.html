@@ -120,9 +120,10 @@ function match(r){
   if (state.cat && r.c!==state.cat) return false;
   if (state.brand && r.b!==state.brand) return false;
   if (state.year && !r.y.split('/').includes(state.year)) return false;
-  if (state.q){ const t = norm(r.b+r.m+r.n); if (!norm(state.q).split(/,|，/).every(x=>t.includes(x))) return false; }
+  if (state.q && !qmatch(r)) return false;
   return true;
 }
+function qmatch(r){ const t = norm(r.b+r.m+r.n); return state.q.toLowerCase().split(/[\s,，]+/).filter(Boolean).every(x=>t.includes(norm(x))); }
 function el(tag, cls, text){const e=document.createElement(tag); if(cls) e.className=cls; if(text!==undefined) e.textContent=text; return e}
 
 function render(){
@@ -167,7 +168,7 @@ function render(){
   // chips
   const chips = $('chips'); chips.replaceChildren();
   CATS.forEach(([v,l])=>{
-    const n = DATA.filter(r=>(!v||r.c===v) && (!state.brand||r.b===state.brand) && (!state.year||r.y.split('/').includes(state.year)) && (!state.q||norm(r.b+r.m+r.n).includes(norm(state.q)))).length;
+    const n = DATA.filter(r=>(!v||r.c===v) && (!state.brand||r.b===state.brand) && (!state.year||r.y.split('/').includes(state.year)) && (!state.q||qmatch(r))).length;
     const b = el('button','chip',l); b.type='button'; b.setAttribute('aria-pressed', String(state.cat===v));
     b.append(el('small',null,String(n)));
     b.onclick=()=>{state.cat=v; try{localStorage.setItem('tc-filter',JSON.stringify({cat:v}))}catch(e){}; render()};
