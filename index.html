@@ -27,6 +27,12 @@ header{padding-block:28px 16px}
 h1{font-size:clamp(24px,4.5vw,34px);line-height:1.2;margin:0 0 8px;font-weight:700;text-wrap:balance;letter-spacing:-.01em}
 .sub{margin:0;color:var(--muted);max-width:65ch}
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:30;background:var(--bg)}
+details.guide{margin:0 0 18px;border:1px solid var(--line);border-radius:8px;background:var(--surface);padding:12px 16px}
+details.guide summary{cursor:pointer;font-weight:600}
+details.guide figure{display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start;margin:12px 0 0}
+details.guide img{max-width:100%;height:auto;border:1px solid var(--line);border-radius:6px;background:#fff}
+details.guide figcaption{flex:1 1 260px;min-width:0;font-size:14px;color:var(--muted)}
+details.guide figcaption p{margin:0 0 8px}
 .bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:var(--bg);padding-block:10px 12px;border-bottom:1px solid var(--line)}
 .row{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
 .search{flex:1 1 260px;min-width:0;position:relative}
@@ -78,8 +84,19 @@ footer a{color:var(--accent)}
 <div class="wrap">
   <header>
     <h1>Type-C 支援影像輸出查詢</h1>
-    <p class="sub">查詢哪些筆電、平板、手機的 USB-C 孔可以直接接螢幕（DisplayPort Alt Mode，含 Thunderbolt 3）。依品牌 A-Z 排列，附出廠年份。目前收錄 1987 筆。</p>
+    <p class="sub">查詢哪些筆電、平板、手機的 USB-C 孔可以直接接螢幕（DisplayPort Alt Mode，含 Thunderbolt 3）。依品牌 A-Z 排列，附出廠年份。目前收錄 1991 筆。</p>
   </header>
+
+  <details class="guide" open>
+    <summary>怎麼看 USB-C 孔有沒有影像輸出</summary>
+    <figure>
+      <img src="usb-c-symbols.jpg" alt="USB-C 各種協定符號對照表。紅框標出的 Thunderbolt 3 與 DP Alt mode 兩種符號，影像（Video）欄為 Yes，其餘符號都沒有影像輸出。" width="330" height="470" loading="lazy">
+      <figcaption>
+        <p>圖：USB-C 各種協定的符號對照（來源：ALOGIC）。</p>
+        <p>孔旁邊印有紅框內的 <b>Thunderbolt 3（閃電符號）</b> 或 <b>DP Alt mode（DP 符號）</b>，這個 USB-C 孔就支援影像輸出。只有 USB 符號或 SS 符號的孔，只傳資料或充電，不能接螢幕。Thunderbolt 4、Thunderbolt 5 與 USB4 同樣支援影像輸出。</p>
+      </figcaption>
+    </figure>
+  </details>
 
   <div class="bar" role="search">
     <div class="row">
@@ -98,7 +115,7 @@ footer a{color:var(--accent)}
   <details class="reflist" id="reflist"><summary>參考資料</summary><ol id="reflist-ol"></ol></details>
 
   <footer>
-    <p><b>資料來源：</b>約 395 筆整理自公開的裝置清單，已逐筆核對，年份可疑者另外查證，各筆的參考編號對應頁面下方「參考資料」；另有約 1592 筆為網路查證補充的 2016–2026 年筆電與 2024–2026 年手機，每筆附規格來源連結。</p>
+    <p><b>資料來源：</b>約 395 筆整理自公開的裝置清單，已逐筆核對，年份可疑者另外查證，各筆的參考編號對應頁面下方「參考資料」；另有約 1596 筆為網路查證補充的 2016–2026 年筆電與 2024–2026 年手機，每筆附規格來源連結。</p>
     <p><b>已剔除：</b>原清單列有 Samsung Galaxy S22 FE，但三星已取消該機型、從未發售，所以未收錄。</p>
     <p><span class="legend-est">~2018</span> 表示年份由整理者查證或依上市時間推估，僅供參考。</p>
     <p><b>注意：</b>這是「已確認支援」的清單，沒列出的型號不代表不支援。補充資料多數來自廠商規格頁或評測，部分來源是搜尋摘要、第三方資料庫或 Wikipedia，備註欄有標示；部分型號代碼與年份為推估。抽查 17 筆補充資料：11 筆驗證無誤、6 筆證據偏間接、0 筆錯誤。是否能輸出影像仍以廠商規格、機型版本、線材與轉接器為準。</p>
