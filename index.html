@@ -197,7 +197,7 @@ $('brand').addEventListener('change',e=>{state.brand=e.target.value; render()});
 $('year').addEventListener('change',e=>{state.year=e.target.value; render()});
 $('reset').onclick=()=>{state.q=state.cat=state.brand=state.year=''; $('q').value=''; $('brand').value=''; $('year').value=''; try{localStorage.removeItem('tc-filter')}catch(e){}; render()};
 const CN = {laptop:'筆電', tablet:'平板', phone:'手機'};
-Promise.all([fetch('devices.json').then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }), fetch('references.json').then(r=>r.ok?r.json():[]).catch(()=>[])]).then(([j,rf])=>{
+Promise.all([fetch('devices.json',{cache:'no-cache'}).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }), fetch('references.json',{cache:'no-cache'}).then(r=>r.ok?r.json():[]).catch(()=>[])]).then(([j,rf])=>{
   rf.forEach(x=>{ REFS[x.n]=x; });
   DATA = j.map(d=>({b:d.brand, c:CN[d.category], m:d.model, y:d.year, e:d.year_estimated, n:d.note||'', u:d.source_url||'', f:d.references||[]}));
   brands = [...new Set(DATA.map(r=>r.b))].sort((a,b)=>a.toLowerCase().localeCompare(b.toLowerCase()));
