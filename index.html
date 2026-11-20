@@ -3,7 +3,20 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Type-C 支援影像輸出查詢</title>
+<title>Type-C 支援影像輸出查詢｜筆電、平板、手機 USB-C 轉螢幕型號清單</title>
+<meta name="description" content="查詢筆電、平板、手機的 USB-C 孔能不能接螢幕：收錄 1991 筆支援 DisplayPort Alt Mode、Thunderbolt 3/4/5、USB4 影像輸出的型號與出廠年份，涵蓋 42 個品牌，可依品牌、年份、型號搜尋。">
+<link rel="canonical" href="https://flanderlin.github.io/usbc-DP.lookup/">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="zh_TW">
+<meta property="og:title" content="Type-C 支援影像輸出查詢｜筆電、平板、手機 USB-C 轉螢幕型號清單">
+<meta property="og:description" content="查詢筆電、平板、手機的 USB-C 孔能不能接螢幕：收錄 1991 筆支援 DisplayPort Alt Mode、Thunderbolt 3/4/5、USB4 影像輸出的型號與出廠年份，涵蓋 42 個品牌，可依品牌、年份、型號搜尋。">
+<meta property="og:url" content="https://flanderlin.github.io/usbc-DP.lookup/">
+<meta property="og:image" content="https://flanderlin.github.io/usbc-DP.lookup/usb-c-symbols.jpg">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Type-C 支援影像輸出查詢｜筆電、平板、手機 USB-C 轉螢幕型號清單">
+<meta name="twitter:description" content="查詢筆電、平板、手機的 USB-C 孔能不能接螢幕：收錄 1991 筆支援 DisplayPort Alt Mode、Thunderbolt 3/4/5、USB4 影像輸出的型號與出廠年份，涵蓋 42 個品牌，可依品牌、年份、型號搜尋。">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebSite", "@id": "https://flanderlin.github.io/usbc-DP.lookup/#website", "url": "https://flanderlin.github.io/usbc-DP.lookup/", "name": "Type-C 支援影像輸出查詢", "inLanguage": "zh-Hant", "description": "查詢筆電、平板、手機的 USB-C 孔能不能接螢幕：收錄 1991 筆支援 DisplayPort Alt Mode、Thunderbolt 3/4/5、USB4 影像輸出的型號與出廠年份，涵蓋 42 個品牌，可依品牌、年份、型號搜尋。"}, {"@type": "Dataset", "@id": "https://flanderlin.github.io/usbc-DP.lookup/#dataset", "name": "USB-C 支援影像輸出的筆電、平板、手機型號清單", "description": "查詢筆電、平板、手機的 USB-C 孔能不能接螢幕：收錄 1991 筆支援 DisplayPort Alt Mode、Thunderbolt 3/4/5、USB4 影像輸出的型號與出廠年份，涵蓋 42 個品牌，可依品牌、年份、型號搜尋。", "url": "https://flanderlin.github.io/usbc-DP.lookup/", "inLanguage": "zh-Hant", "isAccessibleForFree": true, "dateModified": "2026-11-20", "keywords": ["USB-C", "DisplayPort Alt Mode", "Thunderbolt", "USB4", "影像輸出", "筆電", "平板", "手機", "外接螢幕"], "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://flanderlin.github.io/usbc-DP.lookup/devices.json"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://flanderlin.github.io/usbc-DP.lookup/devices.csv"}]}]}</script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Sans+TC:wght@400;500;700&family=JetBrains+Mono:wght@400;500&display=swap">
 <style>
 /* Layout: sticky filter bar over a brand-grouped A-Z list; one row per model line, year in a mono column. */
@@ -77,6 +90,7 @@ footer a{color:var(--accent)}
 .legend-est{color:var(--est);background:var(--est-soft);border-radius:4px;padding:0 5px;font-family:var(--font-mono)}
 @media (max-width:520px){.item{grid-template-columns:minmax(0,1fr) auto;padding:10px 12px}}
 @media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+.brandnav{margin-top:40px}.brandnav h2{font-size:18px;margin:0 0 10px}.brandnav ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px}.brandnav a{display:inline-flex;gap:6px;align-items:baseline;padding:4px 12px;border:1px solid var(--line);border-radius:999px;background:var(--surface);color:var(--fg);text-decoration:none;font-size:14px}.brandnav a:hover{border-color:var(--accent);color:var(--accent)}.brandnav small{font-family:var(--font-mono);font-size:12px;color:var(--muted)}
 </style>
 </head>
 <body>
@@ -111,6 +125,55 @@ footer a{color:var(--accent)}
   </div>
 
   <main id="list"></main>
+  <noscript><p>此頁需要啟用 JavaScript 才能搜尋。你也可以從下方「依品牌瀏覽」進入各品牌的完整清單。</p></noscript>
+
+  <nav class="brandnav" aria-label="依品牌瀏覽">
+    <h2>依品牌瀏覽</h2>
+    <ul>
+      <li><a href="brand-acer.html">Acer<small>62</small></a></li>
+      <li><a href="brand-apple.html">Apple<small>83</small></a></li>
+      <li><a href="brand-asus.html">Asus<small>266</small></a></li>
+      <li><a href="brand-blackberry.html">BlackBerry<small>1</small></a></li>
+      <li><a href="brand-bq.html">BQ<small>1</small></a></li>
+      <li><a href="brand-cube.html">Cube<small>1</small></a></li>
+      <li><a href="brand-dell.html">Dell<small>218</small></a></li>
+      <li><a href="brand-dynabook.html">Dynabook<small>17</small></a></li>
+      <li><a href="brand-essential.html">Essential<small>1</small></a></li>
+      <li><a href="brand-fairphone.html">Fairphone<small>2</small></a></li>
+      <li><a href="brand-framework.html">Framework<small>11</small></a></li>
+      <li><a href="brand-fujitsu.html">Fujitsu<small>1</small></a></li>
+      <li><a href="brand-gigabyte.html">Gigabyte<small>78</small></a></li>
+      <li><a href="brand-google.html">Google<small>19</small></a></li>
+      <li><a href="brand-honor.html">Honor<small>27</small></a></li>
+      <li><a href="brand-hp.html">HP<small>244</small></a></li>
+      <li><a href="brand-htc.html">HTC<small>7</small></a></li>
+      <li><a href="brand-huawei.html">Huawei<small>75</small></a></li>
+      <li><a href="brand-leia.html">Leia<small>1</small></a></li>
+      <li><a href="brand-lenovo.html">Lenovo<small>428</small></a></li>
+      <li><a href="brand-lg.html">LG<small>37</small></a></li>
+      <li><a href="brand-medion.html">Medion<small>1</small></a></li>
+      <li><a href="brand-microsoft.html">Microsoft<small>38</small></a></li>
+      <li><a href="brand-motorola.html">Motorola<small>15</small></a></li>
+      <li><a href="brand-msi.html">MSI<small>59</small></a></li>
+      <li><a href="brand-oneplus.html">OnePlus<small>12</small></a></li>
+      <li><a href="brand-oppo.html">Oppo<small>15</small></a></li>
+      <li><a href="brand-panasonic.html">Panasonic<small>1</small></a></li>
+      <li><a href="brand-pine64.html">PINE64<small>1</small></a></li>
+      <li><a href="brand-purism.html">Purism<small>1</small></a></li>
+      <li><a href="brand-razer.html">Razer<small>47</small></a></li>
+      <li><a href="brand-samsung.html">Samsung<small>89</small></a></li>
+      <li><a href="brand-sharp.html">Sharp<small>15</small></a></li>
+      <li><a href="brand-smartisan.html">Smartisan<small>1</small></a></li>
+      <li><a href="brand-sony.html">Sony<small>16</small></a></li>
+      <li><a href="brand-system76.html">System76<small>19</small></a></li>
+      <li><a href="brand-toshiba.html">Toshiba<small>5</small></a></li>
+      <li><a href="brand-tuxedo.html">Tuxedo<small>4</small></a></li>
+      <li><a href="brand-ulefone.html">Ulefone<small>2</small></a></li>
+      <li><a href="brand-vivo.html">vivo<small>18</small></a></li>
+      <li><a href="brand-xiaomi.html">Xiaomi<small>25</small></a></li>
+      <li><a href="brand-zte.html">ZTE<small>27</small></a></li>
+    </ul>
+  </nav>
 
   <details class="reflist" id="reflist"><summary>參考資料</summary><ol id="reflist-ol"></ol></details>
 
