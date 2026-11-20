@@ -1,0 +1,3354 @@
+[
+ {
+  "brand": "Acer",
+  "category": "laptop",
+  "model": "Acer Chromebook R13",
+  "year": "2016",
+  "year_estimated": true,
+  "note": "2-in-1 convertible；DP"
+ },
+ {
+  "brand": "Acer",
+  "category": "laptop",
+  "model": "Acer Spin 5",
+  "year": "2016/2017",
+  "year_estimated": true,
+  "note": "2-in-1 convertible；DP；SP513-51 為 2016，第8代改款為 2017"
+ },
+ {
+  "brand": "Acer",
+  "category": "laptop",
+  "model": "Acer Nitro 5 Spin",
+  "year": "2017",
+  "year_estimated": true,
+  "note": "2-in-1 convertible；DP"
+ },
+ {
+  "brand": "Acer",
+  "category": "laptop",
+  "model": "Acer Switch 5",
+  "year": "2017",
+  "year_estimated": true,
+  "note": "2-in-1 detachable；DP"
+ },
+ {
+  "brand": "Acer",
+  "category": "laptop",
+  "model": "Acer Swift 5",
+  "year": "2017/2018",
+  "year_estimated": true,
+  "note": "DP Alt Mode（SF514-52T 為 USB-C 3.1 Gen1，非 TB3）；2017年8月發表，2018年各地開賣"
+ },
+ {
+  "brand": "Acer",
+  "category": "laptop",
+  "model": "Acer TravelMate P2",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "DP；系列名稱，年份不確定"
+ },
+ {
+  "brand": "Acer",
+  "category": "tablet",
+  "model": "Acer Chromebook Tab 10",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "Chrome OS；DP"
+ },
+ {
+  "brand": "Acer",
+  "category": "phone",
+  "model": "Acer Liquid Jade Primo",
+  "year": "2016",
+  "year_estimated": false,
+  "note": "Windows 10 Mobile，Continuum"
+ },
+ {
+  "brand": "Apple",
+  "category": "laptop",
+  "model": "Apple MacBook (Early 2015) 及之後機型",
+  "year": "2015",
+  "year_estimated": false,
+  "note": "DP"
+ },
+ {
+  "brand": "Apple",
+  "category": "laptop",
+  "model": "Apple MacBook Pro (Late 2016) 及之後機型",
+  "year": "2016",
+  "year_estimated": false,
+  "note": "TB3"
+ },
+ {
+  "brand": "Apple",
+  "category": "laptop",
+  "model": "Apple MacBook Air (Late 2018) 及之後機型",
+  "year": "2018",
+  "year_estimated": false,
+  "note": "TB3"
+ },
+ {
+  "brand": "Apple",
+  "category": "tablet",
+  "model": "Apple iPad Pro (3rd generation)",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "tablet",
+  "model": "Apple iPad Air (4th generation)",
+  "year": "2020",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "tablet",
+  "model": "Apple iPad Pro (4th generation)",
+  "year": "2020",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "tablet",
+  "model": "Apple iPad Pro (5th generation)",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "tablet",
+  "model": "Apple iPad mini (6th generation)",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "tablet",
+  "model": "Apple iPad (10th generation)",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "tablet",
+  "model": "Apple iPad Air (5th generation)",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "tablet",
+  "model": "Apple iPad Pro (6th generation)",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "tablet",
+  "model": "Apple iPad Air (6th generation, iPad Air M2)",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "tablet",
+  "model": "Apple iPad Pro (7th generation)",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "tablet",
+  "model": "Apple iPad mini (7th generation, iPad mini A17 Pro)",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "tablet",
+  "model": "Apple iPad (11th generation, iPad A16)",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "tablet",
+  "model": "Apple iPad Air (7th generation, iPad Air M3)",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "phone",
+  "model": "Apple iPhone 15",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "phone",
+  "model": "Apple iPhone 15 Plus",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "phone",
+  "model": "Apple iPhone 15 Pro",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "phone",
+  "model": "Apple iPhone 15 Pro Max",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "phone",
+  "model": "Apple iPhone 16",
+  "year": "2024",
+  "year_estimated": false,
+  "note": "不含 16e"
+ },
+ {
+  "brand": "Apple",
+  "category": "phone",
+  "model": "Apple iPhone 16 Plus",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "phone",
+  "model": "Apple iPhone 16 Pro",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "phone",
+  "model": "Apple iPhone 16 Pro Max",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "phone",
+  "model": "Apple iPhone 17",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "不含 iPhone Air、17e"
+ },
+ {
+  "brand": "Apple",
+  "category": "phone",
+  "model": "Apple iPhone 17 Pro",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "phone",
+  "model": "Apple iPhone 17 Pro Max",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Apple",
+  "category": "phone",
+  "model": "Apple iPhone 18 Pro",
+  "year": "2026",
+  "year_estimated": false,
+  "note": "2026年機型，尚無法獨立查證"
+ },
+ {
+  "brand": "Apple",
+  "category": "phone",
+  "model": "Apple iPhone 18 Pro Max",
+  "year": "2026",
+  "year_estimated": false,
+  "note": "2026年機型，尚無法獨立查證"
+ },
+ {
+  "brand": "Apple",
+  "category": "phone",
+  "model": "Apple iPhone Duo",
+  "year": "2026",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "laptop",
+  "model": "Asus ZenBook 3 UX390UA",
+  "year": "2016",
+  "year_estimated": true,
+  "note": "USB-C 3.1 Gen1 可輸出影像（經擴充座）；無 TB3，UX490UA 才有 TB3"
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ZenFone 3 Ultra",
+  "year": "2016",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ZenFone AR",
+  "year": "2017",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ZenFone Ares",
+  "year": "2017",
+  "year_estimated": false,
+  "note": "ZenFone AR 台灣版"
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ROG Phone",
+  "year": "2018",
+  "year_estimated": false,
+  "note": "Mobile Desktop Dock"
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ROG Phone II",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ROG Phone 3",
+  "year": "2020",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ROG Phone 5",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ROG Phone 5s",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ROG Phone 6",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ROG Phone 6 Pro",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ROG Phone 6D",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ROG Phone 6D Ultimate",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ROG Phone 7",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ROG Phone 7 Ultimate",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ROG Phone 8",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ROG Phone 8 Pro",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ROG Phone 9",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ROG Phone 9 FE",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Asus",
+  "category": "phone",
+  "model": "Asus ROG Phone 9 Pro",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "BlackBerry",
+  "category": "phone",
+  "model": "BlackBerry Key2",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "BQ",
+  "category": "phone",
+  "model": "BQ Aquaris X2",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Cube",
+  "category": "laptop",
+  "model": "Cube i7 Book",
+  "year": "2016",
+  "year_estimated": true,
+  "note": "2-in-1 detachable；DP"
+ },
+ {
+  "brand": "Dell",
+  "category": "laptop",
+  "model": "Dell XPS 12 (9250)",
+  "year": "2015",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Dell",
+  "category": "laptop",
+  "model": "Dell XPS 13 (9350)",
+  "year": "2015",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Dell",
+  "category": "laptop",
+  "model": "Dell XPS 15 (9550)",
+  "year": "2015",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Dell",
+  "category": "laptop",
+  "model": "Dell XPS 13 (9360)",
+  "year": "2016",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Dell",
+  "category": "laptop",
+  "model": "Dell Inspiron 13 7000 2-in-1",
+  "year": "2017",
+  "year_estimated": true,
+  "note": "DP"
+ },
+ {
+  "brand": "Dell",
+  "category": "laptop",
+  "model": "Dell Latitude 7373",
+  "year": "2017",
+  "year_estimated": true,
+  "note": "TB3；年份不確定，網路上找不到明確發表資料"
+ },
+ {
+  "brand": "Dell",
+  "category": "laptop",
+  "model": "Dell XPS 13 2-in-1 (9365)",
+  "year": "2017",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Dell",
+  "category": "laptop",
+  "model": "Dell XPS 15 (9560)",
+  "year": "2017",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Dell",
+  "category": "laptop",
+  "model": "Dell Inspiron 5570",
+  "year": "2017/2018",
+  "year_estimated": true,
+  "note": "TB3；2017年底第8代改款，2018年評測"
+ },
+ {
+  "brand": "Dell",
+  "category": "laptop",
+  "model": "Dell Latitude 5490",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Dell",
+  "category": "laptop",
+  "model": "Dell XPS 13 (9370)",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Dell",
+  "category": "laptop",
+  "model": "Dell XPS 15 (9570)",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Dell",
+  "category": "laptop",
+  "model": "Dell XPS 15 2-in-1 (9575)",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Dell",
+  "category": "laptop",
+  "model": "Dell Latitude 5400",
+  "year": "2019",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Essential",
+  "category": "phone",
+  "model": "Essential Phone",
+  "year": "2017",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Fairphone",
+  "category": "phone",
+  "model": "Fairphone 4",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Fairphone",
+  "category": "phone",
+  "model": "Fairphone 5",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Fujitsu",
+  "category": "phone",
+  "model": "Fujitsu Arrows Alpha (F-51F)",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Gigabyte",
+  "category": "laptop",
+  "model": "Gigabyte Aero 15x",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "TB3；2018年4月改款（初代為 2017年10月）"
+ },
+ {
+  "brand": "Gigabyte",
+  "category": "laptop",
+  "model": "Gigabyte Aero 15 x9",
+  "year": "2019",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Gigabyte",
+  "category": "laptop",
+  "model": "Gigabyte Aero 15 y9",
+  "year": "2019",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Google",
+  "category": "laptop",
+  "model": "Google Chromebook Pixel (2015)",
+  "year": "2015",
+  "year_estimated": false,
+  "note": "DP"
+ },
+ {
+  "brand": "Google",
+  "category": "laptop",
+  "model": "Google Pixelbook",
+  "year": "2017",
+  "year_estimated": true,
+  "note": "2-in-1 convertible；DP"
+ },
+ {
+  "brand": "Google",
+  "category": "laptop",
+  "model": "Google Pixel Slate",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "2-in-1 detachable；DP"
+ },
+ {
+  "brand": "Google",
+  "category": "phone",
+  "model": "Google Pixel 8",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "2024年6月更新後正式支援"
+ },
+ {
+  "brand": "Google",
+  "category": "phone",
+  "model": "Google Pixel 8 Pro",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "2024年6月更新後正式支援"
+ },
+ {
+  "brand": "Google",
+  "category": "phone",
+  "model": "Google Pixel 8a",
+  "year": "2024",
+  "year_estimated": false,
+  "note": "來源頁面與 Pixel 8 合併標示 2023，8a 實為 2024年5月上市"
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor Note 10",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor View 20",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor 30 Pro",
+  "year": "2020",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor 30 Pro+",
+  "year": "2020",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor Magic3",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor Magic3 Pro",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor Magic3 Pro+",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor 80 GT",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "來源頁面寫 2023，中國首發為 2022年12月"
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor Magic V",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor Magic Vs",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor Magic4",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor Magic4 Pro",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor Magic4 Ultimate",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor Magic5 Pro",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor Magic5 Ultimate",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor Magic V5",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor Magic8",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor Magic8 Pro",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Honor",
+  "category": "phone",
+  "model": "Honor Magic V6",
+  "year": "2026",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "HP",
+  "category": "laptop",
+  "model": "HP ZBook",
+  "year": "2015/2016/2017",
+  "year_estimated": true,
+  "note": "TB3；頁面未註明代數，年份不確定"
+ },
+ {
+  "brand": "HP",
+  "category": "laptop",
+  "model": "HP ZBook Studio",
+  "year": "2015/2017",
+  "year_estimated": true,
+  "note": "TB3；G3 為 2015、G4 為 2017，頁面未註明代數"
+ },
+ {
+  "brand": "HP",
+  "category": "laptop",
+  "model": "HP EliteBook Folio G1",
+  "year": "2016",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "HP",
+  "category": "laptop",
+  "model": "HP Spectre 13",
+  "year": "2016",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "HP",
+  "category": "laptop",
+  "model": "HP Spectre x360",
+  "year": "2016",
+  "year_estimated": true,
+  "note": "2-in-1 convertible；TB3"
+ },
+ {
+  "brand": "HP",
+  "category": "laptop",
+  "model": "HP Chromebook x2",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "2-in-1 detachable；DP"
+ },
+ {
+  "brand": "HP",
+  "category": "laptop",
+  "model": "HP Envy 13 x360 (2018)",
+  "year": "2018",
+  "year_estimated": false,
+  "note": "DP"
+ },
+ {
+  "brand": "HP",
+  "category": "laptop",
+  "model": "HP ZBook Studio x360",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "2-in-1 convertible；TB3"
+ },
+ {
+  "brand": "HP",
+  "category": "laptop",
+  "model": "HP Envy 13 x360 (2019)",
+  "year": "2019",
+  "year_estimated": false,
+  "note": "DP"
+ },
+ {
+  "brand": "HP",
+  "category": "laptop",
+  "model": "HP ProBook 430 G6",
+  "year": "2019",
+  "year_estimated": true,
+  "note": "DP；Linux"
+ },
+ {
+  "brand": "HP",
+  "category": "phone",
+  "model": "HP Elite x3",
+  "year": "2016",
+  "year_estimated": false,
+  "note": "Windows 10 Mobile，Continuum"
+ },
+ {
+  "brand": "HTC",
+  "category": "phone",
+  "model": "HTC 10",
+  "year": "2016",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "HTC",
+  "category": "phone",
+  "model": "HTC U Ultra",
+  "year": "2017",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "HTC",
+  "category": "phone",
+  "model": "HTC U11",
+  "year": "2017",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "HTC",
+  "category": "phone",
+  "model": "HTC U11+",
+  "year": "2017",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "HTC",
+  "category": "phone",
+  "model": "HTC Exodus 1",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "HTC",
+  "category": "phone",
+  "model": "HTC U12+",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "HTC",
+  "category": "phone",
+  "model": "HTC U19e",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "laptop",
+  "model": "Huawei MateBook",
+  "year": "2016",
+  "year_estimated": true,
+  "note": "2-in-1 detachable；TB3"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 10",
+  "year": "2017",
+  "year_estimated": false,
+  "note": "Easy Projection"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 10 Pro",
+  "year": "2017",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 20",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 20 Pro",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 20 X",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei P20",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei P20 Pro",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 30",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 30 Pro",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 30 RS Porsche Design",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate X",
+  "year": "2019",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei P30",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei P30 Pro",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 30E Pro",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "中國版"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 40 Pro",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "來源頁面寫 2021，經查為 2020年10月發表"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate Xs",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei P40",
+  "year": "2020",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei P40 Pro",
+  "year": "2020",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate X2",
+  "year": "2021",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei P50 Pocket",
+  "year": "2021",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 50",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "HarmonyOS"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 50 Pro",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 50 RS Porsche Design",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 50E",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate Xs 2",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Pocket S",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 60",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "HarmonyOS"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 60 Pro",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 60 Pro+",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 60 RS Ultimate",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate X3",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate X5",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei P60",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei P60 Art",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei P60 Pro",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 70 Pro",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 70 Pro+",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 70 RS",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate X6",
+  "year": "2024",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Pocket 2",
+  "year": "2024",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Pura 70 Pro",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate XT",
+  "year": "2024/2025",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate XTs",
+  "year": "2024/2025",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 80",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 80 Pro",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 80 Pro Max",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 80 Pro Max Wind",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate 80 RS Ultimate",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Mate X7",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Pura 80 Pro",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "華為官方頁面說法矛盾，待確認"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Pura 80 Pro+",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "華為官方頁面說法矛盾，待確認"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Pura 80 Ultra",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "華為官方頁面說法矛盾，待確認"
+ },
+ {
+  "brand": "Huawei",
+  "category": "phone",
+  "model": "Huawei Pura X",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Leia",
+  "category": "tablet",
+  "model": "Leia Lume Pad 2",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo Yoga 900",
+  "year": "2015",
+  "year_estimated": true,
+  "note": "2-in-1 convertible；DP"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo Legion Y520",
+  "year": "2017",
+  "year_estimated": true,
+  "note": "DP"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo ThinkPad T470",
+  "year": "2017",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo ThinkPad T470s",
+  "year": "2017",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo ThinkPad X1 Carbon (2017)",
+  "year": "2017",
+  "year_estimated": false,
+  "note": "TB3"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo ThinkPad X270",
+  "year": "2017",
+  "year_estimated": true,
+  "note": "DP"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo Legion Y530",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "DP"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo Legion Y7000",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "DP"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo ThinkPad A285",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "DP"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo ThinkPad A485",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "DP"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo ThinkPad E485",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "DP"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo ThinkPad E580",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo ThinkPad E585",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "DP"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo ThinkPad T480",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo ThinkPad T480s",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo ThinkPad X1 Carbon (2018)",
+  "year": "2018",
+  "year_estimated": false,
+  "note": "TB3"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo Legion Y740",
+  "year": "2019",
+  "year_estimated": true,
+  "note": "DP"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "laptop",
+  "model": "Lenovo ThinkPad X1 Carbon (2019)",
+  "year": "2019",
+  "year_estimated": false,
+  "note": "TB3"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "tablet",
+  "model": "Lenovo Tab P11 Pro",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "來源頁面寫 2021，經查為 2020年發表"
+ },
+ {
+  "brand": "Lenovo",
+  "category": "tablet",
+  "model": "Lenovo TAB6 5G",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Lenovo",
+  "category": "tablet",
+  "model": "Lenovo Tab P11 5G",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Lenovo",
+  "category": "tablet",
+  "model": "Lenovo Tab P11 Pro Gen 2",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Lenovo",
+  "category": "tablet",
+  "model": "Lenovo Tab Extreme (2023)",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Lenovo",
+  "category": "phone",
+  "model": "Lenovo Legion Phone Duel",
+  "year": "2020",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Lenovo",
+  "category": "phone",
+  "model": "Lenovo Legion 2 Pro",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Lenovo",
+  "category": "phone",
+  "model": "Lenovo Legion Duel 2",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Lenovo",
+  "category": "phone",
+  "model": "Lenovo Legion Y90",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "LG",
+  "category": "phone",
+  "model": "LG G5",
+  "year": "2016",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "LG",
+  "category": "phone",
+  "model": "LG V20",
+  "year": "2016",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "LG",
+  "category": "phone",
+  "model": "LG Q8",
+  "year": "2017",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "LG",
+  "category": "phone",
+  "model": "LG V30",
+  "year": "2017",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "LG",
+  "category": "phone",
+  "model": "LG V30+",
+  "year": "2017",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "LG",
+  "category": "phone",
+  "model": "LG G7",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "LG",
+  "category": "phone",
+  "model": "LG G7+",
+  "year": "2018",
+  "year_estimated": false,
+  "note": "2018年12月更新後"
+ },
+ {
+  "brand": "LG",
+  "category": "phone",
+  "model": "LG V35",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "LG",
+  "category": "phone",
+  "model": "LG V35+",
+  "year": "2018",
+  "year_estimated": false,
+  "note": "2018年12月更新後"
+ },
+ {
+  "brand": "LG",
+  "category": "phone",
+  "model": "LG V40",
+  "year": "2018",
+  "year_estimated": false,
+  "note": "2018年12月更新後"
+ },
+ {
+  "brand": "LG",
+  "category": "phone",
+  "model": "LG G8",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "LG",
+  "category": "phone",
+  "model": "LG V50",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "LG",
+  "category": "phone",
+  "model": "LG V60",
+  "year": "2020",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Medion",
+  "category": "laptop",
+  "model": "Medion Akoya S4403",
+  "year": "2018/2019/2020",
+  "year_estimated": true,
+  "note": "2-in-1 convertible；無 Thunderbolt，USB-C 支援 DP Alt Mode；年份不確定"
+ },
+ {
+  "brand": "Microsoft",
+  "category": "laptop",
+  "model": "Microsoft Surface Book 2",
+  "year": "2017",
+  "year_estimated": true,
+  "note": "2-in-1 detachable；DP"
+ },
+ {
+  "brand": "Microsoft",
+  "category": "laptop",
+  "model": "Microsoft Surface Go",
+  "year": "2018",
+  "year_estimated": true,
+  "note": "2-in-1 detachable；DP"
+ },
+ {
+  "brand": "Microsoft",
+  "category": "phone",
+  "model": "Microsoft Lumia 950",
+  "year": "2015",
+  "year_estimated": false,
+  "note": "Windows 10 Mobile，Continuum"
+ },
+ {
+  "brand": "Microsoft",
+  "category": "phone",
+  "model": "Microsoft Lumia 950 XL",
+  "year": "2015",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Microsoft",
+  "category": "phone",
+  "model": "Microsoft Surface Duo",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "雙螢幕摺疊"
+ },
+ {
+  "brand": "Microsoft",
+  "category": "phone",
+  "model": "Microsoft Surface Duo 2",
+  "year": "2021",
+  "year_estimated": false,
+  "note": "雙螢幕摺疊"
+ },
+ {
+  "brand": "Motorola",
+  "category": "phone",
+  "model": "Motorola Edge+",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "Ready For"
+ },
+ {
+  "brand": "Motorola",
+  "category": "phone",
+  "model": "Motorola Edge 20 Pro",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Motorola",
+  "category": "phone",
+  "model": "Motorola Edge S",
+  "year": "2021",
+  "year_estimated": false,
+  "note": "中國版"
+ },
+ {
+  "brand": "Motorola",
+  "category": "phone",
+  "model": "Motorola Moto G100",
+  "year": "2021",
+  "year_estimated": false,
+  "note": "Edge S 歐洲版"
+ },
+ {
+  "brand": "Motorola",
+  "category": "phone",
+  "model": "Motorola Edge 30 Pro",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "全球版"
+ },
+ {
+  "brand": "Motorola",
+  "category": "phone",
+  "model": "Motorola Edge 30 Ultra",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Motorola",
+  "category": "phone",
+  "model": "Motorola Edge X30",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "中國版"
+ },
+ {
+  "brand": "Motorola",
+  "category": "phone",
+  "model": "Motorola Edge+ 2022",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "美國版"
+ },
+ {
+  "brand": "Motorola",
+  "category": "phone",
+  "model": "Motorola Moto X40",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "中國版"
+ },
+ {
+  "brand": "Motorola",
+  "category": "phone",
+  "model": "Motorola Edge 40 Pro",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Motorola",
+  "category": "phone",
+  "model": "Motorola ThinkPhone",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Motorola",
+  "category": "phone",
+  "model": "Motorola Edge 50 Pro",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Motorola",
+  "category": "phone",
+  "model": "Motorola Moto X50 Ultra",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "MSI",
+  "category": "laptop",
+  "model": "MSI GS60 6QE",
+  "year": "2015",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "OnePlus",
+  "category": "phone",
+  "model": "OnePlus 7",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "OnePlus",
+  "category": "phone",
+  "model": "OnePlus 7 Pro",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "OnePlus",
+  "category": "phone",
+  "model": "OnePlus 8",
+  "year": "2020",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "OnePlus",
+  "category": "phone",
+  "model": "OnePlus 8 Pro",
+  "year": "2020",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "OnePlus",
+  "category": "phone",
+  "model": "OnePlus 9",
+  "year": "2021",
+  "year_estimated": false,
+  "note": "不支援4K螢幕"
+ },
+ {
+  "brand": "OnePlus",
+  "category": "phone",
+  "model": "OnePlus 9 Pro",
+  "year": "2021",
+  "year_estimated": false,
+  "note": "不支援4K螢幕"
+ },
+ {
+  "brand": "OnePlus",
+  "category": "phone",
+  "model": "OnePlus 9R",
+  "year": "2021",
+  "year_estimated": false,
+  "note": "不支援4K螢幕"
+ },
+ {
+  "brand": "OnePlus",
+  "category": "phone",
+  "model": "OnePlus 10 Pro",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "不含 OnePlus 11"
+ },
+ {
+  "brand": "OnePlus",
+  "category": "phone",
+  "model": "OnePlus 12",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "不含 12R"
+ },
+ {
+  "brand": "OnePlus",
+  "category": "phone",
+  "model": "OnePlus Open",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Oppo",
+  "category": "phone",
+  "model": "Oppo R17 Pro",
+  "year": "2018",
+  "year_estimated": false,
+  "note": "歐洲名稱 RX17 Pro"
+ },
+ {
+  "brand": "Oppo",
+  "category": "phone",
+  "model": "Oppo Reno 10x Zoom",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Oppo",
+  "category": "phone",
+  "model": "Oppo Reno 5G",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Oppo",
+  "category": "phone",
+  "model": "Oppo Find X3 Pro",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Oppo",
+  "category": "phone",
+  "model": "Oppo Find X5 Pro",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Oppo",
+  "category": "phone",
+  "model": "Oppo Find N3",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Oppo",
+  "category": "phone",
+  "model": "Oppo Find X6 Pro",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Oppo",
+  "category": "phone",
+  "model": "Oppo Find N5",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "Oppo",
+  "category": "phone",
+  "model": "Oppo Find N6",
+  "year": "2026",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "PINE64",
+  "category": "phone",
+  "model": "PINE64 PinePhone",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "Linux"
+ },
+ {
+  "brand": "Purism",
+  "category": "phone",
+  "model": "Purism Librem 5",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "Linux"
+ },
+ {
+  "brand": "Razer",
+  "category": "laptop",
+  "model": "Razer Blade Stealth 全系列",
+  "year": "2016",
+  "year_estimated": true,
+  "note": "TB3"
+ },
+ {
+  "brand": "Razer",
+  "category": "phone",
+  "model": "Razer Phone",
+  "year": "2017",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Razer",
+  "category": "phone",
+  "model": "Razer Phone 2",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Samsung",
+  "category": "laptop",
+  "model": "Samsung Galaxy TabPro S",
+  "year": "2016",
+  "year_estimated": true,
+  "note": "2-in-1 detachable；DP"
+ },
+ {
+  "brand": "Samsung",
+  "category": "tablet",
+  "model": "Samsung Galaxy Tab S4",
+  "year": "2018",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "tablet",
+  "model": "Samsung Galaxy Tab Active Pro",
+  "year": "2019",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "tablet",
+  "model": "Samsung Galaxy Tab S5e",
+  "year": "2019",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "tablet",
+  "model": "Samsung Galaxy Tab S6",
+  "year": "2019",
+  "year_estimated": false,
+  "note": "DeX；不含 Lite"
+ },
+ {
+  "brand": "Samsung",
+  "category": "tablet",
+  "model": "Samsung Galaxy Tab Active 3",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "tablet",
+  "model": "Samsung Galaxy Tab S7",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "tablet",
+  "model": "Samsung Galaxy Tab S7+",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "tablet",
+  "model": "Samsung Galaxy Tab S7 FE",
+  "year": "2021",
+  "year_estimated": false,
+  "note": "DeX；來源頁面寫 2020，經查為 2021年上市"
+ },
+ {
+  "brand": "Samsung",
+  "category": "tablet",
+  "model": "Samsung Galaxy Tab S8",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "tablet",
+  "model": "Samsung Galaxy Tab S8 Ultra",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "tablet",
+  "model": "Samsung Galaxy Tab S8+",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "tablet",
+  "model": "Samsung Galaxy Tab S9",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "DeX；不含 FE/FE+"
+ },
+ {
+  "brand": "Samsung",
+  "category": "tablet",
+  "model": "Samsung Galaxy Tab S9 Ultra",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "tablet",
+  "model": "Samsung Galaxy Tab S9+",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "tablet",
+  "model": "Samsung Galaxy Tab S10 Ultra",
+  "year": "2024",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "tablet",
+  "model": "Samsung Galaxy Tab S10+",
+  "year": "2024",
+  "year_estimated": false,
+  "note": "DeX；不含 FE/FE+"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Note 8",
+  "year": "2017",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S8",
+  "year": "2017",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S8+",
+  "year": "2017",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Note 9",
+  "year": "2018",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S9",
+  "year": "2018",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S9+",
+  "year": "2018",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy A90 5G",
+  "year": "2019",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Fold",
+  "year": "2019",
+  "year_estimated": false,
+  "note": "DeX；摺疊"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Note 10",
+  "year": "2019",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Note 10+",
+  "year": "2019",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S10",
+  "year": "2019",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S10+",
+  "year": "2019",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S10e",
+  "year": "2019",
+  "year_estimated": false,
+  "note": "DeX；不含 Lite"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Note 20",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Note 20 Ultra",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S20",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S20 FE",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S20 Ultra",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S20+",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Z Fold 2",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "DeX；摺疊"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung W21",
+  "year": "2020",
+  "year_estimated": false,
+  "note": "DeX；Z Fold 2 中國版"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy M52 5G",
+  "year": "2021",
+  "year_estimated": false,
+  "note": "DeX；來源頁面寫 2022，經查為 2021年9月上市"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S21",
+  "year": "2021",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S21 Ultra",
+  "year": "2021",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S21+",
+  "year": "2021",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Z Fold 3",
+  "year": "2021",
+  "year_estimated": false,
+  "note": "DeX；摺疊"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S21 FE",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "DeX；來源頁面寫 2021，經查為 2022年1月上市"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S22",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S22 Ultra",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S22+",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Z Fold 4",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "DeX；摺疊"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S23",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S23 FE",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S23 Ultra",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S23+",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Z Fold5",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "DeX；摺疊"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung W24",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "DeX；Z Fold5 中國版"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S24",
+  "year": "2024",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S24 FE",
+  "year": "2024",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S24 Ultra",
+  "year": "2024",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S24+",
+  "year": "2024",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Z Fold6",
+  "year": "2024",
+  "year_estimated": false,
+  "note": "DeX；摺疊"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S25",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S25 Edge",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S25 FE",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S25 Ultra",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S25+",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Z Flip7",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "DeX；摺疊；來源說法不一，信心中等"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Z Flip7 FE",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "摺疊；來源頁面標 DeX，但三星官方稱不支援有線 DeX，待確認"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Z Fold7",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "DeX；摺疊"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S26",
+  "year": "2026",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S26 Ultra",
+  "year": "2026",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy S26+",
+  "year": "2026",
+  "year_estimated": false,
+  "note": "DeX"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Z Flip8",
+  "year": "2026",
+  "year_estimated": false,
+  "note": "DeX；摺疊"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Z Fold8",
+  "year": "2026",
+  "year_estimated": false,
+  "note": "DeX；摺疊"
+ },
+ {
+  "brand": "Samsung",
+  "category": "phone",
+  "model": "Samsung Galaxy Z Fold8 Ultra",
+  "year": "2026",
+  "year_estimated": false,
+  "note": "DeX；摺疊"
+ },
+ {
+  "brand": "Sharp",
+  "category": "phone",
+  "model": "Sharp Aquos R5G",
+  "year": "2020",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sharp",
+  "category": "phone",
+  "model": "Sharp Aquos zero5G basic",
+  "year": "2020",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sharp",
+  "category": "phone",
+  "model": "Sharp Aquos R6",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sharp",
+  "category": "phone",
+  "model": "Sharp Leica Leitz Phone 1",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sharp",
+  "category": "phone",
+  "model": "Sharp Aquos R7",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sharp",
+  "category": "phone",
+  "model": "Sharp Leica Leitz Phone 2",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sharp",
+  "category": "phone",
+  "model": "Sharp Aquos R8",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sharp",
+  "category": "phone",
+  "model": "Sharp Aquos R8 Pro",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sharp",
+  "category": "phone",
+  "model": "Sharp Aquos Sense 8",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sharp",
+  "category": "phone",
+  "model": "Sharp Aquos R9",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sharp",
+  "category": "phone",
+  "model": "Sharp Aquos R9 Pro",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sharp",
+  "category": "phone",
+  "model": "Sharp Aquos Sense 9",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sharp",
+  "category": "phone",
+  "model": "Sharp Aquos R10",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sharp",
+  "category": "phone",
+  "model": "Sharp Aquos sense10",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sharp",
+  "category": "phone",
+  "model": "Sharp Aquos R11",
+  "year": "2026",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Smartisan",
+  "category": "phone",
+  "model": "Smartisan R1",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sony",
+  "category": "phone",
+  "model": "Sony Xperia 1",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sony",
+  "category": "phone",
+  "model": "Sony Xperia 5",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sony",
+  "category": "phone",
+  "model": "Sony Xperia 1 II",
+  "year": "2020",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sony",
+  "category": "phone",
+  "model": "Sony Xperia 5 II",
+  "year": "2020",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sony",
+  "category": "phone",
+  "model": "Sony Xperia 1 III",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sony",
+  "category": "phone",
+  "model": "Sony Xperia 10 III",
+  "year": "2021",
+  "year_estimated": false,
+  "note": "不含 Xperia 10 IV / V"
+ },
+ {
+  "brand": "Sony",
+  "category": "phone",
+  "model": "Sony Xperia 5 III",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sony",
+  "category": "phone",
+  "model": "Sony Xperia Pro",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sony",
+  "category": "phone",
+  "model": "Sony Xperia Pro-I",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sony",
+  "category": "phone",
+  "model": "Sony Xperia 1 IV",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sony",
+  "category": "phone",
+  "model": "Sony Xperia 5 IV",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sony",
+  "category": "phone",
+  "model": "Sony Xperia 1 V",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sony",
+  "category": "phone",
+  "model": "Sony Xperia 5 V",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sony",
+  "category": "phone",
+  "model": "Sony Xperia 1 VI",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sony",
+  "category": "phone",
+  "model": "Sony Xperia 1 VII",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Sony",
+  "category": "phone",
+  "model": "Sony Xperia 1 VIII",
+  "year": "2026",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Ulefone",
+  "category": "phone",
+  "model": "Ulefone Armor 28 Ultra",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Ulefone",
+  "category": "phone",
+  "model": "Ulefone Armor 29 Ultra",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "vivo",
+  "category": "tablet",
+  "model": "vivo Pad",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "vivo",
+  "category": "phone",
+  "model": "vivo X70 Pro+",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "vivo",
+  "category": "phone",
+  "model": "vivo X Fold",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "vivo",
+  "category": "phone",
+  "model": "vivo X Fold+",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "vivo",
+  "category": "phone",
+  "model": "vivo X Note",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "vivo",
+  "category": "phone",
+  "model": "vivo X80 Pro",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "vivo",
+  "category": "phone",
+  "model": "vivo X90 Pro",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "歐洲版"
+ },
+ {
+  "brand": "vivo",
+  "category": "phone",
+  "model": "vivo X90 Pro+",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "中國版"
+ },
+ {
+  "brand": "vivo",
+  "category": "phone",
+  "model": "vivo X200 Pro",
+  "year": "2024/2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "vivo",
+  "category": "phone",
+  "model": "vivo X200 Ultra",
+  "year": "2024/2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "vivo",
+  "category": "phone",
+  "model": "vivo X Fold5",
+  "year": "2025",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "vivo",
+  "category": "phone",
+  "model": "vivo X Fold6",
+  "year": "2026",
+  "year_estimated": false,
+  "note": "摺疊"
+ },
+ {
+  "brand": "vivo",
+  "category": "phone",
+  "model": "vivo X300 Ultra",
+  "year": "2026",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Xiaomi",
+  "category": "laptop",
+  "model": "Xiaomi Mi Notebook Air 12.5\"",
+  "year": "2016",
+  "year_estimated": true,
+  "note": "DP"
+ },
+ {
+  "brand": "Xiaomi",
+  "category": "laptop",
+  "model": "Xiaomi Mi Notebook Air 13.3\"",
+  "year": "2016",
+  "year_estimated": true,
+  "note": "DP"
+ },
+ {
+  "brand": "Xiaomi",
+  "category": "laptop",
+  "model": "Xiaomi Mi Notebook Pro 15.6\"",
+  "year": "2017",
+  "year_estimated": true,
+  "note": "DP"
+ },
+ {
+  "brand": "Xiaomi",
+  "category": "tablet",
+  "model": "Xiaomi Pad 7",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Xiaomi",
+  "category": "phone",
+  "model": "Xiaomi Black Shark 2",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Xiaomi",
+  "category": "phone",
+  "model": "Xiaomi Black Shark 3",
+  "year": "2020",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Xiaomi",
+  "category": "phone",
+  "model": "Xiaomi Black Shark 4",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Xiaomi",
+  "category": "phone",
+  "model": "Xiaomi 15 Pro",
+  "year": "2024/2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Xiaomi",
+  "category": "phone",
+  "model": "Xiaomi 17 Pro",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "Xiaomi",
+  "category": "phone",
+  "model": "Xiaomi Redmi K100 Pro",
+  "year": "2026",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE Axon 9 Pro",
+  "year": "2018",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE Axon 10 Pro",
+  "year": "2019",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE Axon 30 5G",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia Red Magic 6S Pro",
+  "year": "2021",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE Axon 30S",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia Red Magic 7",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia Red Magic 7 Pro",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia Red Magic 8 Pro",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia Red Magic 8 Pro+",
+  "year": "2022",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia Red Magic 8S Pro",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "頁面與 8 Pro 合併標示 2022"
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia Red Magic 8S Pro+",
+  "year": "2022",
+  "year_estimated": false,
+  "note": "頁面與 8 Pro 合併標示 2022"
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia RedMagic 9 Pro",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia RedMagic 9 Pro+",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia RedMagic 9S Pro",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "頁面與 9 Pro 合併標示 2023"
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia RedMagic 9S Pro+",
+  "year": "2023",
+  "year_estimated": false,
+  "note": "頁面與 9 Pro 合併標示 2023"
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia Z50 Ultra",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia Z50S Pro",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia Z60 Ultra",
+  "year": "2023",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia RedMagic 10 Pro",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia RedMagic 10 Pro+",
+  "year": "2024",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia RedMagic 10S Pro",
+  "year": "2024",
+  "year_estimated": false,
+  "note": "頁面與 10 Pro 合併標示 2024"
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia RedMagic 10S Pro+",
+  "year": "2024",
+  "year_estimated": false,
+  "note": "頁面與 10 Pro 合併標示 2024"
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia RedMagic 11 Pro",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ },
+ {
+  "brand": "ZTE",
+  "category": "phone",
+  "model": "ZTE nubia RedMagic 11 Pro+",
+  "year": "2025",
+  "year_estimated": false,
+  "note": ""
+ }
+]
